@@ -1,5 +1,5 @@
-; 192.187.56.28
-; 192.187.56.30
+192.187.56.28
+192.187.56.30
 
 [localhost]
  localhost
@@ -8,8 +8,8 @@
 Course="DevOps from inventorey"
 trainer="Sivakumar"
 Duration="110HRS"
-PERSON="Siva from inventory"
-WISHES="Morning from inventory"
+; PERSON="Siva from inventory"
+; WISHES="Morning from inventory"
 
 
 [web]

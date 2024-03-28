@@ -6,7 +6,7 @@
 
 [localhost:vars]
 Course="DevOps from inventorey"
-rainer="Sivakumar"
+trainer="Sivakumar"
 Duration="110HRS"
 PERSON="Siva from inventory"
 WISHES="Morning from inventory"

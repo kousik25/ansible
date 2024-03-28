@@ -8,8 +8,8 @@
 Course="DevOps from inventorey"
 Trainer="Sivakumar"
 Duration="110HRS"
-; PERSON="Siva from inventory"
-; WISHES="Morning from inventory"
+PERSON="Siva from inventory"
+WISHES="Morning from inventory"
 
 
 [web]

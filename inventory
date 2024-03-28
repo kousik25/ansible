@@ -1,13 +1,13 @@
 ; 192.187.56.28
 ; 192.187.56.30
 
-; [localhost]
-; localhost
+[localhost]
+ localhost
 
-; [localhost: vars]
-; Course="DevOps from inventorey"
-; rainer="Sivakumar"
-; Duration="110HRS"
+[localhost: vars]
+Course="DevOps from inventorey"
+rainer="Sivakumar"
+Duration="110HRS"
 ; PERSON="Siva from inventory"
 ; WISHES="Morning from inventory"
 
